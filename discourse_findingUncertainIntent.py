@@ -49,7 +49,7 @@ DB_PATH    = "discourse_cache.db"
 CACHE_TTL  = 3600          # Redis TTL in seconds
 MAX_CHARS  = 200_000       # hard limit on input text
 
-BG      = "#0F1117"
+BG      = "#FFFFFF"
 PANEL   = "#1A1D27"
 FG      = "#E8E8E8"
 SUB     = "#AAAAAA"
