@@ -1528,8 +1528,8 @@ def main() -> None:
     # Minimal dark-mode CSS tweaks
     st.markdown("""
     <style>
-    [data-testid="stAppViewContainer"] { background-color: #0F1117; }
-    [data-testid="stSidebar"]          { background-color: #1A1D27; }
+    [data-testid="stAppViewContainer"] { background-color: #FFFFFF; }
+    [data-testid="stSidebar"]          { background-color: #FFFFFF; }
     h1, h2, h3, h4 { color: #E8E8E8; }
     .stMetricValue  { font-size: 1.6rem; }
     </style>""", unsafe_allow_html=True)
